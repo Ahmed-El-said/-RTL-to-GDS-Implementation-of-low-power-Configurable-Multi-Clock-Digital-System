@@ -1,0 +1,15 @@
+# vsim work.uart_TX_tb 
+# Start time: 23:32:08 on Jul 16,2022
+# Loading work.uart_TX_tb
+# Loading work.uart_TX
+# Loading work.FSMD
+# Loading work.serializer
+# Loading work.parity
+# Loading work.mux
+add wave -position insertpoint sim:/uart_TX_tb/*
+run
+run
+run
+run
+# End time: 23:33:38 on Jul 16,2022, Elapsed time: 0:01:30
+# Errors: 0, Warnings: 0
